@@ -1,29 +1,7 @@
-# Gandhi Kannada  Digital Kannada Books
+# ಗಾಂಧಿ - ಕನ್ನಡ ಸಾಹಿತ್ಯದ ಡಿಜಿಟಲ್ ಕನ್ನಡ ಪುಸ್ತಕಗಳು
 
-Gandhi Kannada  Digital Kannada Books is a showcase of the #ServantsOfKnowledge project works @Sanchaya & @SanchiFoundation
+Digital archive hosted at **https://gandhi.sanchaya.net**
 
-Check it out : https://sanchaya.org & https://sanchifoundation.org
+Published by ಕರ್ನಾಟಕ ಗಾಂಧೀ ಸ್ಮಾರಕ ನಿಧಿ. Items come from Internet Archive query:
 
-## HOW TO ADD YOUR PUBLICATION
-
-If you find a nice ebook about kannada, feel free to contribute and add it in a few steps :
-
-- Paste the informations into the JSON file.
-- Please include a .png file for the cover : less than 100Ko.**
-- Make a pull request.
-
-Alternatively, you can send us an email with book infos : info@sanchaya.org
-
-Thanks per advance !
-
-## HISTORY
-
-
-## Licence
-
-The Digital Kannada Books website is licensed under the MIT license: http://www.opensource.org/licenses/mit-license.php
-
-Each book has its own licence, see book homepage.
-
-## About us
-‘Sanchaya’ was born with an intent to make an impact in the area of Kannada & Technology. ‘Sanchaya’ is exploring the possibilities of using technology in Linguistics and Literary research. Tools designed and developed by ‘Sanchaya’ is available for the larger community through Internet and Mobile platforms. ‘Vachana Sanchaya’ is a platform built to enable research on Vachana Literature which is already available for public. We have dreams to build many more such initiatives. Projects binding both Literary & Technology Knowledge through our platforms are based on the inspiration of creating atmosphere around Free Information & Free Knowledge through Free Software. Sanchaya is a not for profit platform working around building the technological capacity around Kannada Literary research.
+    identifier:(maha* OR gandhi* OR "mohanataranga0000unse" OR "bahuroopigandhi0000unse" OR "hasyamattugandhi0000unse" OR "nayitalim0000unse" OR "hindswarjya0000unse" OR "vinobasageofageu0000unse" OR "nammagandhitaata0000unse" OR "geetamaate0000unse" OR "rashrapithamahat0000unse" OR "nannakanasinaswa0000unse" OR "olleyajeevana0000unse" OR "sarvodaya10000unse" OR "lokachintakaru0000unse" OR "nandigiridhamada0000unse" OR "karanatakadagand0000unse" OR "andhiguendigupra0000unse" OR "kavanagalallimoo0000unse" OR "bhashanagalumatt0000unse" OR "patraguchha0000unse" OR "swaatantramattus0000unse" OR "asprushyate0000unse" OR "swathantrya0000unse" OR "karnatakadakastu0000unse" OR "nanaanenbudunaan0000unse" OR "karanatakadallis0000unse" OR "praarhane0000unse" OR "nannabalyadanena0000unse_w3v2" OR "ganyarukandanteg0000unse" OR "mahileyaru0000unse" OR "arogya0000unse" OR "khadigramoodhyog0000unse" OR "samajavadagandhi0000unse" OR "panchayathrajya0000unse")
